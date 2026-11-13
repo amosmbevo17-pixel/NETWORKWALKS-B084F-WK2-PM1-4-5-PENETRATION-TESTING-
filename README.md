@@ -17,7 +17,7 @@ The work demonstrates how publicly available domain and web information can be c
 
 ## Main report
 
-The complete 15-page report is intended to be included in this repository as:
+The complete 15-page public report has been prepared as the repository's primary document. The sanitized PDF is ready to upload; it is not yet present in the repository.
 
 `PENETRATION_TESTING_NETWORKWALKS_REPORT_SANITIZED.pdf`
 
@@ -75,7 +75,7 @@ The recommendations cover technology and patch management, HTTP header review, D
 ## Repository contents
 
 - `README.md` — project overview, scope, tools, recorded results, and safety notes.
-- `PENETRATION_TESTING_NETWORKWALKS_REPORT_SANITIZED.pdf` — complete public report (15 pages; MAC address masked in screenshot evidence).
+- `PENETRATION_TESTING_NETWORKWALKS_REPORT_SANITIZED.pdf` — planned primary document (15 pages; prepared locally, pending binary upload).
 
 ## Authorization and responsible use
 
