@@ -1,7 +1,7 @@
 # Footprinting & Network Scanning — Week 2
 
 **Program:** Networkwalks Cybersecurity & Ethical Hacking  
-**Batch:** B082  
+**Batch:** B082F
 **Author:** Amos Mbevo  
 **Report date:** 13 November 2026  
 **Modules covered:** W2-PM1 (Multiple Kali Tools), W2-PM4 (theHarvester), W2-PM5 (Zenmap)
@@ -19,7 +19,7 @@ The work demonstrates how publicly available domain and web information can be c
 
 The complete 15-page public report has been prepared as the repository's primary document. The sanitized PDF is ready to upload; it is not yet present in the repository.
 
-`PENETRATION_TESTING_NETWORKWALKS_REPORT_SANITIZED.pdf`
+`PENETRATION_TESTING_NETWORKWALKS_REPORT.pdf`
 
 The public copy masks the MAC address displayed in the Zenmap screenshot on page 10. No technical sections, findings, screenshots, scan details, recommendations, or conclusions are intentionally omitted. The original unmodified report is retained separately by the author.
 
@@ -75,12 +75,8 @@ The recommendations cover technology and patch management, HTTP header review, D
 ## Repository contents
 
 - `README.md` — project overview, scope, tools, recorded results, and safety notes.
-- `PENETRATION_TESTING_NETWORKWALKS_REPORT_SANITIZED.pdf` — planned primary document (15 pages; prepared locally, pending binary upload).
+- `PENETRATION_TESTING_NETWORKWALKS_REPORT.pdf` — planned primary document (15 pages; prepared locally, pending binary upload).
 
 ## Authorization and responsible use
 
 The report states that activities were performed only on systems and devices for which written permission had been secured or that were owned by the author. The local Zenmap scan was performed against the author's own lab network. This repository is shared for educational and research purposes. Do not use these techniques against systems without explicit authorization.
-
-## Scope note
-
-The report identifies the training batch as **B082**. The existing GitHub repository name contains **B084F**; the repository name has been retained as requested, while the report and this README preserve the batch information recorded in the submitted work.
