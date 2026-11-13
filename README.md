@@ -16,7 +16,7 @@ The work demonstrates how publicly available domain and web information can be c
 
 ## Main report
 
-The complete 15-page public report has been prepared as the repository's primary document. The sanitized PDF is ready to upload; it is not yet present in the repository.
+The complete 15-page public report has been prepared as the repository's primary document.
 
 `PENETRATION_TESTING_NETWORKWALKS_REPORT.pdf`
 
