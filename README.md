@@ -1,7 +1,6 @@
 # Footprinting & Network Scanning — Week 2
 
 **Program:** Networkwalks Cybersecurity & Ethical Hacking  
-**Batch:** B082F
 **Author:** Amos Mbevo  
 **Report date:** 13 November 2026  
 **Modules covered:** W2-PM1 (Multiple Kali Tools), W2-PM4 (theHarvester), W2-PM5 (Zenmap)
